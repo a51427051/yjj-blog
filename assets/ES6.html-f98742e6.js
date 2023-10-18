@@ -1,0 +1,1 @@
+const t=JSON.parse(`{"key":"v-684d26ea","path":"/basic/ES6.html","title":"ES6","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"auther: '十三月'date: '2023-06-27',lastUpdated: true","slug":"auther-十三月-date-2023-06-27-lastupdated-true","link":"#auther-十三月-date-2023-06-27-lastupdated-true","children":[]}],"git":{},"filePathRelative":"basic/ES6.md"}`);export{t as data};

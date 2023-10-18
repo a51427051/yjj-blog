@@ -1,0 +1,1 @@
+const l=JSON.parse('{"key":"v-5b4b418e","path":"/basic/Javascript/symbol.html","title":"Symbol类型","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"定义","slug":"定义","link":"#定义","children":[]},{"level":2,"title":"应用场景","slug":"应用场景","link":"#应用场景","children":[]}],"git":{},"filePathRelative":"basic/Javascript/symbol.md"}');export{l as data};

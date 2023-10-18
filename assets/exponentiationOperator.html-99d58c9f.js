@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-15f67dda","path":"/basic/ES7/exponentiationOperator.html","title":"Array.prototype.includes","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"含义","slug":"含义","link":"#含义","children":[]},{"level":2,"title":"示例","slug":"示例","link":"#示例","children":[]}],"git":{},"filePathRelative":"basic/ES7/exponentiationOperator.md"}');export{e as data};
